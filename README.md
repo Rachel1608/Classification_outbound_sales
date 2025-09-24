@@ -6,6 +6,8 @@
   * nltk (preprocess)
   * spacy
   * Regex (Cleaning the dataset)
+  * Scikit-learn ( model training, train_test_split, evaluation metrics)
+  * transformers
 
 * Checking the Shape of the Data
 * Checking the Data description to find the missing values
